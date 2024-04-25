@@ -1,5 +1,5 @@
 # Breast_Cancer_Prediction
-Breast Cancer Malignancy Prediction 
+Breast Cancer Malignancy Prediction Model
 
 Most types of breast cancer are easy to diagnose by microscopic analysis of a sample - or biopsy - of the
 affected area of the breast. The two most commonly used screening methods, physical examination of the
